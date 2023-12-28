@@ -8,14 +8,8 @@ Key Features:
 
 2. **Priority Setting:** Stay focused on what matters most by assigning priorities to your tasks. Task Buddy helps you identify and tackle the most important items first.
 
-3. **Reminders and Notifications:** Never miss a deadline or forget an important task. Task Buddy keeps you on track with timely reminders and notifications.
+3. **Customizable Lists:** Tailor your to-do lists to your specific needs by creating categories and organizing tasks accordingly.
 
-4. **Customizable Lists:** Tailor your to-do lists to your specific needs by creating categories and organizing tasks accordingly.
-
-5. **Progress Monitoring:** Track your accomplishments and visualize your progress. Task Buddy motivates you to stay productive by showcasing completed tasks.
-
-6. **Collaboration:** Share tasks and collaborate seamlessly with others, whether it's for work projects or shared responsibilities at home.
-
-7. **Sync Across Devices:** Access your to-do lists from anywhere. Task Buddy synchronizes effortlessly across all your devices, ensuring you have your tasks at your fingertips no matter where you are.
+4. **Sync Across Devices:** Access your to-do lists from anywhere. Task Buddy synchronizes effortlessly across all your devices, ensuring you have your tasks at your fingertips no matter where you are.
 
 Task Buddy is more than just a to-do app; it's your personal assistant dedicated to making your life simpler and more organized. Download Task Buddy today and take the first step towards a more productive and stress-free day.
